@@ -34,7 +34,7 @@ public class hello extends HttpServlet {
 
 		out.println("<title>Hello</title>" + "<body bgcolor=FF0FFF>");
 
-		out.println("<h2>hiiiiiiii</h2>" + new Date());
+		out.println("<h2>hiiiiiiii hiwaii</h2>" + new Date());
 
 	}
 
